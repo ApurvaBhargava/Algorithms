@@ -107,4 +107,3 @@ Indexed Priority Queue | Data Structure | Source Code
 Sparse Table Data Structure
 
 Sparse Table Data Structure | Source Code
-Sparse Table 
